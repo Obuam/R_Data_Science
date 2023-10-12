@@ -1,0 +1,1 @@
+ggplot2 is a robust and versatile data visualization package for the R programming language. Developed by Hadley Wickham, it is designed to help you create elegant, customizable, and informative data visualizations. This readme provides an overview of ggplot2's key features and usage.
