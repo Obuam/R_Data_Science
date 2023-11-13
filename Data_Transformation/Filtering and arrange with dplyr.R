@@ -63,6 +63,4 @@ filter(flights, dep_time >000 & dep_time <=600)
  #3. How many flights have a missing dep_time? 
 na.new <- filter(flights, is.na(dep_time))
 
- view(na.new)
-
-
+##......arrange()
